@@ -1,2 +1,2 @@
 # Low_Level_Designs-LLD
-This Repo is Intended to create diff useful desings to develop
+Pure Java logging framework built from scratch to explore LLD, design patterns, concurrency and reusable library design.
